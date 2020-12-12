@@ -1,4 +1,8 @@
-## Twitter Clone - https://twitter-clone-d0d20.web.app/
+## Twitter Clone
+
+Demo: https://twitter-clone-d0d20.web.app/
+
+![Twitter Clone](https://user-images.githubusercontent.com/4500215/101992621-00113c80-3c72-11eb-8908-b5aee93646f4.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
